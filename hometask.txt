@@ -1,0 +1,6 @@
+git diff master demo
+-Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
++Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+=====================================================================
+
